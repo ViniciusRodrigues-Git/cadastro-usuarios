@@ -71,7 +71,7 @@ Abra o arquivo `index.html` utilizando a extensão **Live Server**.
 
 ### Formulário Preenchido
 
-![Formulário Preenchido](./images/tela-preenchida)
+![Formulário Preenchido](./images/tela-preenchida.png)
 
 ### Cadastro Realizado
 
